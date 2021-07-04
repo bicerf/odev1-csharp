@@ -6,6 +6,7 @@ namespace odev1_csharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("1 numaralı soru");
             //Console.WriteLine("Kaç adet pozitif tam sayı girmek istersiniz: ");
             //int n = int.Parse(Console.ReadLine());
             //int[] sayilar = new int[n];
@@ -22,6 +23,8 @@ namespace odev1_csharp
             //    }
 
             //}
+            Console.WriteLine("-----------------------");
+            Console.WriteLine("2 numaralı soru");
 
             //Console.WriteLine("2 adet sayı girmenizi istiyoruz..");
             //int[] degerler = new int[2];
@@ -48,7 +51,8 @@ namespace odev1_csharp
             //        Console.WriteLine(ar);
             //    }
             //}
-
+            Console.WriteLine("-----------------------");
+            Console.WriteLine("3 numaralı soru");
 
             //Console.WriteLine("Pozitif bir sayı giriniz : ");
             //int n = int.Parse(Console.ReadLine());
@@ -65,6 +69,8 @@ namespace odev1_csharp
             //    Console.WriteLine(words[i]);
             //}
 
+            Console.WriteLine("-----------------------");
+            Console.WriteLine("4 numaralı soru");
 
             Console.WriteLine("Bir cümle giriniz : ");
             string word1 = Console.ReadLine();
